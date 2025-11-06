@@ -64,8 +64,8 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** e sigo uma jor
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
-[![Instagram]([https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/](https://www.instagram.com/lucasmenezespb/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasmenezespb/)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
 </div>
@@ -75,6 +75,8 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** e sigo uma jor
 <div align="center">
   
 ⭐ *“A tecnologia muda o mundo. A disciplina muda o destino.”*  
+
+</div>
 
 </div>
 
