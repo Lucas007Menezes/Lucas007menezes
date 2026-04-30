@@ -10,7 +10,7 @@
 Sou **Lucas Menezes**, um apaixonado por tecnologia e desenvolvimento humano.  
 Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** e sigo uma jornada intensa de aprendizado para me tornar um **profissional híbrido** — unindo **Inteligência Artificial, Desenvolvimento Web, Automação e Estratégia Digital**.
 
-> 💭 "A cada linha de código, um novo degrau rumo à liberdade e evolução."
+> 
 
 ---
 
@@ -74,7 +74,6 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** e sigo uma jor
 
 <div align="center">
   
-⭐ *“A tecnologia muda o mundo. A disciplina muda o destino.”*  
 
 </div>
 
